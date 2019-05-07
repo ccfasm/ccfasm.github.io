@@ -56,18 +56,18 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+Disqus（https://disqus.com/）
+disqus_username: linlei
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 2360fea6bb1e2c8328a3                            #生成的clientID
-  clientSecret: 0c5064d893ae48965e1780fd5d0c6424fd70d168   #生成的clientSecret
-  repo: ccfasm.github.io    #仓库名称
-  owner: ccfasm    #github用户名
-  admin: ccfasm
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+# gitalk:
+#   enable: true    #是否开启Gitalk评论
+#   clientID: 2360fea6bb1e2c8328a3                            #生成的clientID
+#   clientSecret: 0c5064d893ae48965e1780fd5d0c6424fd70d168   #生成的clientSecret
+#   repo: ccfasm.github.io    #仓库名称
+#   owner: ccfasm    #github用户名
+#   admin: ccfasm
+#   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
