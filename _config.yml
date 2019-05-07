@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Geoffrey Hinton",
+        href: "https://scholar.google.ca/citations?user=JicYPdAAAAAJ&hl=en&oi=ao"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Yoshua Bengio",
+        href: "https://scholar.google.ca/citations?hl=en&user=kukA0LcAAAAJ"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Ian Goodfellow",
+        href: "https://scholar.google.ca/citations?user=iYN86KEAAAAJ&hl=en"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Kui Ren",
+        href: "https://scholar.google.ca/citations?hl=en&user=uuQA_rcAAAAJ&view_op=list_works&sortby=pubdate"
     }
 ]
